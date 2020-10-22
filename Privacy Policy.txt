@@ -1,0 +1,23 @@
+Rachel's GDPR Consent Manage
+Thanks for downloading Rachel's GDPR Consent Manage!
+
+1. Open the Rachel's GDPR Consent Manager tab by clicking the logo in the browser toolbar.
+	 The GDPR-related Survey website will display as soon as it's first-time installed or  "options" clicked.
+
+2. The GDPR-related Survey website would collect about your perception of a given cookie configuration and GDPR settings. Since we wish to give a picture of this perception on a global scale, this survey would need to locate you. However, it is up to the user that we also provide the user with a "do not share" choice.
+	 Rachel's GDPR Consent Manage is used for our research study, thus your browser data might be used for research. But all data would be hashed and timely deletion for GDPR.
+	 Our extension itself will not collect any personal data from users, please feel safe to use.
+
+3. GDPR-related Survey website includes multilingual versions, if you are interested in translating your local version, please feel free to contact us.
+
+4. Rachel's GDPR Consent Manager is under improvement. If you find a bug that is not already listed as an issue, please report to xuehui.hu@kcl.ac.uk and Give us feedback!
+
+
+
+【HOW WE DEAL WITH DATA】
+
+1. We stored all user data in a hashed way to secure all browsing data and implement timely deletion.
+
+2. All the data collected is only used for our particular research study analysis, which is definitely without any commercial profits.
+
+3. IF the user wishes to delete his/her data in our storage, please send the email to: xuehui.hu@kcl.ac.uk  :)
